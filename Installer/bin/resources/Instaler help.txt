@@ -1,0 +1,16 @@
+- Da biste dodali novi softver kliknite na Fajl> Novi Softver
+
+- Da biste dodali novi modul neophodno je da u drvetu selektujete softver u koji ce se novi modul dodati
+
+- Da biste dodali novi parametar neophodno je da u drvetu selektujete modul u koji ce se novi parametar dodati
+
+- Svi popunjeni parametri u softveru ce biti prikazani u Pregledu i instalirani
+
+- Jezik i LookAndFeel imaju podrazumevane vrednosti
+
+- Klikom na Save cuvate sve popunjene parametre koje ste napravili
+
+- Klikom na Finish pokrecete Pregled instalacije. 
+Pre klika na Finish, neophodno je pritisnuti Save!
+
+- U pregledu, klikom na Instal, program se instalira

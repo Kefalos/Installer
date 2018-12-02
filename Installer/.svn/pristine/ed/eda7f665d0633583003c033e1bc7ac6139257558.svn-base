@@ -1,0 +1,196 @@
+
+English = English
+
+Serbian = Serbian
+
+bCancel = Izlaz
+
+CustomParametar = Proizvoljni parametar
+
+PredefinedParametar = Predefinisani parametar
+
+bSave = Snimanje
+
+bFinish = Zavr\u0161etak
+
+bOK = Ok
+
+bHelp = Pomo\u0107
+
+file = Fajl
+
+frame = Naslov
+
+help = Pomo\u0107
+
+itemExit = Izlaz
+
+itemAbout = O timu
+
+install = Instalacija
+
+itemCustomParametar = Novi izborni parametar
+
+itemPredefinedParametar = Novi predefinisani parametar
+
+itemAddNewSoftware = Dodavanje novog softvera
+
+itemAddNewModul = Dodavanje novog modula
+
+itemRemoveSelected = Brisanje selektovanog parametra
+
+firstName = Vo\u0111a tima
+
+secondName = \u010Dlan 1:
+
+thirdName = \u010Dlan 2:
+
+fourthName = \u010Dlan 3:
+
+projectName = Projekat: Universal Installer
+
+teamLeader = Aleksandar Mi\u0107i\u0107, Racunarske nauke
+
+teamLeader1 = Vuk Davidovi\u0107, Racunarske nauke
+
+teamLeader2 = Matija Zari\u0107, Racunarske nauke
+
+teamLeader3 = Andrija Petrovi\u0107, Racunarske nauke
+
+radio1 = Prihvatam
+
+radio2 = Ne prihvatam
+
+labelNorth = Uslovi kreiranja parametara
+
+labelNorth1 = Molimo Vas pa\u017Eljivo procitajte uslove
+
+btnNext = Dalje
+
+btnCancel = Odustani
+
+btnBack = Nazad
+
+lProgress = Instalacija je u toku, molimo sacekajte...
+
+bBrowse = Izaberi
+
+rbBrowseText = Selektuj ako \u017Eeli\u0161 da doda\u0161 tekst fajl
+
+rbBrowseImage = Selektuj ako \u017Eeli\u0161 da doda\u0161 sliku
+
+rbUserInput = Selektuj ako \u017Eeli\u0161 da doda\u0161 tekst
+
+rbComboBox = Selektuj ako \u017Eeli\u0161 da kombo boks
+
+companyName = Ime kompanije
+
+system = Izbor sistema
+
+logo = Dodavanje logo - a
+
+langauge = Izbor jezika
+
+lookAndFeel = Izbor teme
+
+version = Izbor verzije
+
+software = Unesite instalacioni folder
+
+lCompanyName = Unesite ime kompanije
+
+lChooseSistem = Izaberite Va\u0161 sistem
+
+lLogoc = Dodaj logo kompanije
+
+lChooseLangauge = Izaberi jezik
+
+lVersion = Postavi verziju
+
+lSoftware = Unesite destinaciju na koju ce se softver instalirati
+
+bSoftwareChoose = Izaberi
+
+lChooseLook = Izaberi temu
+
+lWelcome = Dobrodo\u0161li u univerzalni instalator.
+
+lText = Univerzalni instalator \u0107e instalirati predefinisane parametre na va\u0161 racunar.
+
+lText1 = Da nastavite, prikisnike Next.
+
+label1 = Spremno za instalaciju
+
+label2 = Setup je spreman za instalaciju va\u0161ih paramenata na racunar.
+
+label3 = Pritisnite install za nastvak instalacije, ili pritisnite back ako \u017Eelite da se vratite nazad.
+
+addOnDesktop = Dodaj shortcut na desktop 
+
+bInstall = Instaliraj
+
+naslov = Instalator
+
+workspaceName = Koren
+
+itemExit = Izlaz
+
+itemAbout = O nama
+
+itemCustomParametar = Novi proizvoljni parametar
+
+itemPredefinedParametar = Novi predefinisani paremetar
+
+itemAddNewSoftware = Dodaj novi softver
+
+itemAddNewModul = Dodaj novi modul
+
+file = Fajl
+
+help = Pomoc
+
+lProgress = Instalacija u toku, molimo sacekajte...
+
+bFinish = KRAJ
+
+lComplete = Instalacija zavr\u0161ena!
+
+bOK = OK
+
+bCancel = Zatvori
+
+bHelp = Pomoc
+
+customParametarTitle = Proizvoljni parametar
+
+predefinedParametarTitle = Predefinisani parametar
+
+taComboBoxOptions = Uneste opcije kombo boksa, svaku opciju upi\u0161ite u posebnu liniju
+
+name = Naziv
+
+description = Opis
+
+textArea = Univerzalni Instalator \n \n  1.1 Razvijan od strane Britke sablje. \n  \n 1.2 Instalirace Vas softver i parametre na Vas kompjuter \n  \n  1.3 Morate izabrati slazem se da nastavite
+
+teamName = Britke Sablje
+
+bLoad = Ucitaj
+
+sure = Da li ste sigurni da \u017Eelite da iza\u0111ete?
+warning = Upozorenje
+
+warningCustomParametarName = Morate uneti naziv novog parametra!\n
+warningCustomParametarDescription = Morate uneti opis novog parametra!\n
+warningCustomParametarFile = Niste izabrali .txt fajl!\n
+warningCustomParametarImg = Niste izabrali .img or .png or .jpeg or .gif or .jpg fajl!\n
+warningCustomParametarCB = Niste izabrali opcije za kombo boks!\n
+warningCustomParametarOption = Niste izabrali koju \u0107ete opciju napraviti!\n
+
+bBack = Nazad
+
+bNext = Napred
+
+inputSoftvareName = Unesite naziv softvera
+
+inputModulName = Unesite naziv modula

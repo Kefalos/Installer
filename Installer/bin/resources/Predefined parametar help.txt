@@ -1,0 +1,15 @@
+1. Naziv - Obavezno je popuniti polje za unos imena parametra.
+
+2. Opis - Obavezno je polje za unos opisa parametra.
+Opis objašnjava korisniku šta treba da uradi ili unese
+
+3. Opcije unosa:
+1) Dodavanje imena kompanije koja koristi instaler 
+2) Izbor sistema na kojem zelite da instalirate svoje pakete
+3) Mogucnost izbora verzije instalatora
+4) Izbor jezika instalatora
+4) Mogucnost da korisnik doda logo kompanije
+5) Dodavanje putanje gde zelite da instalirate svoje pakete
+6) Mogucnost promene teme upotrebom polja Look and Feel
+
+Napomena 1: Ako klik na OK ne radi nista, proverite da li ste u drvetu selektovali modul u koji zelite da dodate novi parametar
